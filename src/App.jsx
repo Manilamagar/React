@@ -21,6 +21,7 @@ function App() {
       <Route path='/Contact' element={<Contact />} />
       <Route path='/Navbar' element={<Navbar />} />
       <Route path='/Card' element={<Container />} />
+      <Route path='/Tailwind' element={<Tailwind />} />
     </Routes>
     </BrowserRouter>
 
